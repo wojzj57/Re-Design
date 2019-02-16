@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m],n,_(o,p,q,r,s,t,u,_(v,w,x,y,z,_(A,B,C,D),E,null,F,y,G,y,H,I,J,null,K,L,M,N,O,P,Q,L),R,_(),S,_(),T,_(U,[_(V,W,X,j,Y,Z,q,ba,bb,ba,bc,bd,u,_(v,be,bf,_(bg,bh,bi,bj)),R,_(),bk,_(),bl,_(bm,bn))])),bo,_(),bp,_(bq,_(br,bs)));}; 
+var b="url",c="设计概述.html",d="generationDate",e=new Date(1550293265718.09),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="page",o="packageId",p="0fca20cc37a6482da814da40bf6ccdba",q="type",r="Axure:Page",s="name",t="设计概述",u="style",v="baseStyle",w="627587b6038d43cca051c114ac41ad32",x="pageAlignment",y="near",z="fill",A="fillType",B="solid",C="color",D=0xFFE8EAF1,E="image",F="imageHorizontalAlignment",G="imageVerticalAlignment",H="imageRepeat",I="auto",J="favicon",K="sketchFactor",L="0",M="colorStyle",N="appliedColor",O="fontName",P="Applied Font",Q="borderWidth",R="adaptiveStyles",S="interactionMap",T="diagram",U="objects",V="id",W="2688e87115994e9490fc92a8f28c8576",X="label",Y="friendlyType",Z="图片",ba="imageBox",bb="styleType",bc="visible",bd=true,be="75a91ee5b9d042cfa01b8d565fe289c0",bf="size",bg="width",bh=960,bi="height",bj=1518,bk="imageOverrides",bl="images",bm="normal~",bn="images/设计概述/u17.jpg",bo="masters",bp="objectPaths",bq="2688e87115994e9490fc92a8f28c8576",br="scriptId",bs="u17";
+return _creator();
+})());
